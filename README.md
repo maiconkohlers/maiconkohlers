@@ -9,5 +9,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maiconkohlers&layout=compact)
 
-Atualmente estou cursando ensino superior na área de Sistemas de Informação com um foco pessoal em Full Stack Development, empregabilidade e networking.
+Atualmente estou cursando ensino superior presencial na área de Sistemas de Informação com um foco pessoal em Full Stack Development, empregabilidade e networking.
 
